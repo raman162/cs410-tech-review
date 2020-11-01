@@ -1,8 +1,15 @@
-# Tech Review
+# Tech Review: Text Mining And Analysis in Healthcare
 
-Please enter your topics [here](https://docs.google.com/spreadsheets/d/1rYlXm-46abhU4Lg7K2zrDE6VSl2uH_tNql1S7fd1UIM/edit?usp=sharing) by Week 8 (Oct 18). You may choose a topic already chosen by other students (e.g. Survey of text mining toolkits) but please make sure that your review covers something novel that is not available online or in other students' submissions. The "description" column in the sign up sheet should help identify whether your review is unique or not. So, please read the desciptions of other students who've chosen a similar topic as you. You should also provide sufficient details in your description to help others decide.
+[Sign-up Sheet Link][1]  
+[Tech Review](techreview.md) / [PDF Review](techreview.pdf)
 
+## Description
 
-Some sample topics have been provided [here](https://docs.google.com/spreadsheets/d/1yeKm8hJbyRGhiUDvZv9-S3Zzu5hDtET-O6Yeci-VPOs/edit?usp=sharing). You are free to use them or come up with your own topics!
+I will review the existing methods for performing text mining on different sets
+of healthcare data such as Unstructured fields in EMRs, Conversational
+dialogues between healthcare professionals and their patients and hopefully
+more as I do more research. The goal will be to discuss how knowledge gained
+can be applied to create more positive outcomes for patients in the healthcare
+industry by assisting healthcare professionals
 
-## Due: Nov 8, 2020 at 11:59 pm CST
+[1]: https://docs.google.com/spreadsheets/d/1rYlXm-46abhU4Lg7K2zrDE6VSl2uH_tNql1S7fd1UIM/edit?usp=sharing
